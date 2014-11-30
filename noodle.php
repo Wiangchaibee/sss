@@ -12,7 +12,7 @@ body,td,th {
 	color: #000;
 }
 </style>
-<!EDIT V.2.0.0>
+<!EDIT V.1.0.0>
 <style> 
 div
 { border:8px solid #e6d45a;
